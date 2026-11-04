@@ -29,8 +29,6 @@ body {
   background-size: cover;
   background-position: center;
   text-align: center;
-  line-height: 2.4;
-  padding: 60px 20px 80px;
   border-bottom: 5px solid hsl(45, 90%, 60%);
 }
 
@@ -171,7 +169,7 @@ main section h2::before,
   padding: 0;
   margin: 16px 0 0;
   list-style: none;
-
+  cursor: pointer;
 }
 
 .skill-list li{
